@@ -34,3 +34,4 @@ public class Student {
         public void setPassword(String _password) {
             this._password = _password;
         }
+}
